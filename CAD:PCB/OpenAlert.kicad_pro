@@ -68,7 +68,7 @@
           ""
         ],
         [
-          "unconnected_items|155430000|102580000|F.Cu|4|03a448ea-b04f-439e-9e3f-e9bd1725ad09|24327648-eb8f-4279-a91a-1319324d057e",
+          "unconnected_items|155430000|102580000|F.Cu|4|03a448ea-b04f-439e-9e3f-e9bd1725ad09|1c6d24ee-8ab8-4e72-ac19-23e9b1738426",
           ""
         ]
       ],
@@ -515,7 +515,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
